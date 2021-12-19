@@ -1,0 +1,29 @@
+{
+  "name": "react-native-typescript-template",
+  "version": "0.0.1",
+  "description": "React Native preconfigured template.",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseNoriegaa/react-native-typescript-template.git"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate"
+  ],
+  "author": "Jose Noriega <josenoriega723@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoseNoriegaa/react-native-typescript-template/issues"
+  },
+  "homepage": "https://github.com/JoseNoriegaa/react-native-typescript-template#readme"
+}
